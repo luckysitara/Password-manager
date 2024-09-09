@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import secrets
 import string
 from password_strength import PasswordPolicy
